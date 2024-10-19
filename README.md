@@ -29,5 +29,5 @@ Este é o projeto **Radio Pirata**, um sistema para registrar e avaliar bandas. 
 Este projeto foi desenvolvido por [Pedro Menino] como parte da formação da Alura.
 
 ## 🔗 Aprenda Mais Sobre Desenvolvimento em C#
-Formação Aprendendo POO com C# da Alura: https://cursos.alura.com.br/formacao-c-sharp-orientacao-objetos
-Outros cursos e materiais da Alura: https://cursos.alura.com.br/dashboard
+Formação Aprendendo POO com C# da Alura: https://cursos.alura.com.br/formacao-c-sharp-orientacao-objetos.
+Outros cursos e materiais da Alura: https://cursos.alura.com.br/dashboard.
